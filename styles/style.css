@@ -1,5 +1,10 @@
-@import "header.css";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+@import "grid.css";
+@import "base.css";
+@import "hero.css";
 @import "navbar.css";
+
+
 
 
 
